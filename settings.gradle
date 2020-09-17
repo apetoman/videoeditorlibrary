@@ -1,0 +1,3 @@
+include ':videoeditorlibrary'
+include ':app'
+rootProject.name = "VideoEditor"

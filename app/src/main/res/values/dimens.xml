@@ -1,0 +1,45 @@
+<resources>
+    <!-- 顶部按钮栏高度 -->
+    <dimen name="pickerview_topbar_height">92pt</dimen>
+    <!-- 顶部按钮padding -->
+    <dimen name="pickerview_topbar_padding">30pt</dimen>
+    <!-- 顶部按钮文字大小 -->
+    <dimen name="pickerview_topbar_btn_textsize">30pt</dimen>
+    <dimen name="pickerview_topbar_title_textsize">34pt</dimen>
+    <!-- 选项文字大小 -->
+    <dimen name="pickerview_textsize">20pt</dimen>
+    <integer name="animation_default_duration">200</integer>
+    <dimen name="dimens_125dp">125pt</dimen>
+    <dimen name="toolbar_height">92pt</dimen>
+    <dimen name="loading_height">80pt</dimen>
+    <dimen name="map_polygon_line">5pt</dimen>
+    <dimen name="map_btn_bottom">192pt</dimen>
+    <dimen name="map_refresh_location_right">37pt</dimen>
+    <dimen name="item_banner_width_margin">100pt</dimen>
+    <dimen name="margin_dialog">30pt</dimen>
+    <dimen name="safety_warning_dialog_width">646pt</dimen>
+    <dimen name="nearby_dialog_width">646pt</dimen>
+    <dimen name="map_marker_nor_height">133.2pt</dimen>
+    <dimen name="map_marker_nor_width">102pt</dimen>
+
+    <dimen name="map_marker_pre_height">144.7pt</dimen>
+    <dimen name="map_marker_pre_width">102pt</dimen>
+
+
+    <dimen name="map_marker_parking_height">70pt</dimen>
+    <dimen name="map_marker_parking_width">58pt</dimen>
+
+
+    <dimen name="map_marker_location_height">75pt</dimen>
+    <dimen name="map_marker_location_width">45pt</dimen>
+
+    <dimen name="map_marker_journey_detail_height">46pt</dimen>
+    <dimen name="map_marker_journey_detail_width">38pt</dimen>
+    <dimen name="journey_detail_bottom_content">565pt</dimen>
+    <dimen name="journey_detail_top_margin">82pt</dimen>
+    <dimen name="grid_expected_size">250pt</dimen>
+    <dimen name="main_map_reserve_top">423pt</dimen>
+    <dimen name="order_detail_line">7dp</dimen>
+
+    <dimen name="journey_detail_btn_width">206pt</dimen>
+</resources>
